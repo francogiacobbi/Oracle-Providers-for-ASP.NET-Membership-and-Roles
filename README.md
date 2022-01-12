@@ -13,7 +13,8 @@ How To Use
 
 This is an example to implement a OracleDatabase store for ASP.NET Membership and Roles.
 
-#Steps to run project
+Steps to run project
+==========
 
 First of all you need to configure a Schema in Oracle to build data-structure used by Oracle Provider.
 I used HR schema present in my Workspace. HR is a schema sample containing data to produce example.
@@ -29,16 +30,16 @@ against the database from which the ASP.NET providers will retrieve their stored
 information. These SQL scripts can be run using SQL*Plus or within Oracle Developer
 Tools for Visual Studio.
 Oracle Providers for ASP.NET requires the following privileges during setup:
-	- **Change notification**
-	- **Create job**
-	- **Create procedure**
-	- **Create public synonym**
-	- **Create role**
-	- **Create session**
-	- **Create table**
-	- **Create view**
-	- **Drop public synonym**
-	- **Grant access to and allocate space in an Oracle tablespace**
+- **Change notification**
+- **Create job**
+- **Create procedure**
+- **Create public synonym**
+- **Create role**
+- **Create session**
+- **Create table**
+- **Create view**
+- **Drop public synonym**
+- **Grant access to and allocate space in an Oracle tablespace**
 
 Not all database privileges are required for Oracle Providers for ASP.NET runtime
 operations. Database administrators may selectively grant and revoke privileges as
