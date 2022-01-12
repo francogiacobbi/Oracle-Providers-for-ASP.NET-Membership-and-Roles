@@ -1,6 +1,5 @@
-# Oracle-Providers-for-ASP.NET-Membership-and-Roles
-Oracle Providers for ASP.NET Membership and Roles
-Oracle 11g Release 2
+# Oracle Providers for ASP.NET Membership and Roles
+# Oracle 11g Release 2
 ======================
 
 The ASP.NET membership provider is a feature that enables ASP.NET developers to create Web sites that allow users 
